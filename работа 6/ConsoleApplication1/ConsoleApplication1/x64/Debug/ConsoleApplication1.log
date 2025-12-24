@@ -1,0 +1,4 @@
+﻿  ConsoleApplication1.cpp
+H:\Бердюгин Вячеслав\практика\работа 6\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(18,18): warning C4244: инициализация: преобразование "unsigned __int64" в "double", возможна потеря данных
+H:\Бердюгин Вячеслав\практика\работа 6\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(24,18): warning C4244: инициализация: преобразование "unsigned __int64" в "double", возможна потеря данных
+  ConsoleApplication1.vcxproj -> H:\Бердюгин Вячеслав\практика\работа 6\ConsoleApplication1\x64\Debug\ConsoleApplication1.exe
