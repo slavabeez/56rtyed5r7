@@ -1,0 +1,8 @@
+﻿  UnitTest1.cpp
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\numbers(11): warning STL4038: The contents of <numbers> are available only with C++20 or later.
+     Создается библиотека H:\Бердюгин Вячеслав\практика\работа 7\ConsoleApplication1\x64\Release\UnitTest1.lib и объект H:\Бердюгин Вячеслав\практика\работа 7\ConsoleApplication1\x64\Release\UnitTest1.exp
+  Создание кода
+  Previous IPDB not found, fall back to full compilation.
+  All 184 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Создание кода завершено
+  UnitTest1.vcxproj -> H:\Бердюгин Вячеслав\практика\работа 7\ConsoleApplication1\x64\Release\UnitTest1.dll

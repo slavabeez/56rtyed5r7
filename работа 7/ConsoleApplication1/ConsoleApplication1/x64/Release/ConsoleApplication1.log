@@ -1,0 +1,8 @@
+﻿  ConsoleApplication1.cpp
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\numbers(11): warning STL4038: The contents of <numbers> are available only with C++20 or later.
+  Создание кода
+  5 of 29 functions (17.2%) were compiled, the rest were copied from previous compilation.
+    4 functions were new in current compilation
+    4 functions had inline decision re-evaluated but remain unchanged
+  Создание кода завершено
+  ConsoleApplication1.vcxproj -> H:\Бердюгин Вячеслав\практика\работа 7\ConsoleApplication1\x64\Release\ConsoleApplication1.exe
